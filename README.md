@@ -2,7 +2,7 @@
 ## Overview
 This Project focuses on the adventure work sales. This laboratory will include analyzing data from Adventure Work company.
 
-### `contains  dataset`
+### `contains 7 dataset`
  - `AW_Sales_Data`
  - `AW_Product`
  - `AW_Reseller`
